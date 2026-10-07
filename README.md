@@ -54,10 +54,13 @@ AREM-EquipoX-NombreCliente/
 │   ├── informe.md
 │   └── referencias.md
 ├── 07-opportunities-solutions/
+│   ├── mejora-arquitectura.md         # Documento principal del Taller 7 (máx. 6 páginas + anexos)
+│   ├── EquipoX_Mejora_Arquitectura.pdf # El mismo documento en PDF (obligatorio)
+│   ├── to-be-proceso.drawio           # Proceso mejorado (BPMN)
+│   ├── matriz-decision.md
 │   ├── to-be-aplicaciones-final.drawio
 │   ├── to-be-tecnologia-final.drawio
 │   ├── matriz-brechas.xlsx
-│   ├── informe.md
 │   └── referencias.md
 ├── 08-integracion-vistas/
 │   ├── tablero-integrado-cliente.drawio
@@ -65,13 +68,18 @@ AREM-EquipoX-NombreCliente/
 │   └── referencias.md
 └── 09-presentacion-final/
     ├── presentacion.pdf
-    ├── matriz-evaluacion.xlsx
+    ├── matriz-riesgos.xlsx
     ├── plan-implementacion.md
     ├── plan-gobernanza.md
     ├── procedimiento-cambios.md
+    ├── retroalimentacion-cliente.md   # Firmada por el cliente (o PDF escaneado)
     ├── vistas-finales/
+    │   ├── archimate-motivacion.(archimate|drawio) + .png
+    │   └── archimate-migracion.(archimate|drawio) + .png
     └── reflexiones/
 ```
+
+La coevaluación **no** va en el repositorio: cada integrante la envía privada por el Aula Virtual (ver Taller 9).
 
 Cada carpeta usa las plantillas del repo del taller correspondiente — cópielas de `plantillas/` de cada `AREM-Taller_N_...` a la carpeta de aquí y llénelas con el trabajo del cliente real.
 
@@ -114,10 +122,11 @@ El curso se dicta los sábados. Con el Taller 7 (Opportunities & Solutions) inse
 | 11 | 03/10 | 🟢 **Sustentación Corte 2** (`03`, `04`, `05`, `06`) |
 | 12 | 10/10 | Taller 7 — Opportunities & Solutions |
 | — | ~~17/10~~ | Semana de receso — sin clase |
-| 13 | 24/10 | Taller 8 — Integración de Vistas |
-| 14 | 31/10 | Taller 9 — Presentación Final (preparación) |
+| 13 | 24/10 | Taller 8 — Integración de Vistas + método de análisis de riesgos (insumo de la matriz de riesgos del Taller 9) |
+| 14 | 31/10 | Taller 9 — Presentación Final (preparación): plan de implementación con gestión del cambio, gobernanza con métricas, ADR y vistas ArchiMate |
 | 15 | 07/11 | Cierre Corte 3 / Ensayo |
-| 16 | 14/11 | 🟢 **Presentación Final con el cliente/negocio** (`07`, `08`, `09`) |
+| 16 | 14/11 | 🟢 **Presentación Final con el cliente/negocio** (`07`, `08`, `09`) — el cliente debe asistir (presencial o virtual) |
+| — | Mar 17/11 | Plazo del paquete final ajustado con la retroalimentación del panel (repositorio completo + retroalimentación del cliente firmada + coevaluación por Aula Virtual) |
 
 Cada corte queda con al menos un sábado libre de contenido nuevo antes de sustentar (15/08, 26/09). El cierre final queda con un solo sábado de colchón (07/11) en vez de dos, porque el 17/10 no hay clase — sigue alcanzando para los 3 talleres restantes sin romper el orden de dependencias, pero ya sin margen extra: si se corre otra fecha en esta ventana, revisar de nuevo.
 

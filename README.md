@@ -130,6 +130,23 @@ El curso se dicta los sábados. Con el Taller 7 (Opportunities & Solutions) inse
 
 Cada corte queda con al menos un sábado libre de contenido nuevo antes de sustentar (15/08, 26/09). El cierre final queda con un solo sábado de colchón (07/11) en vez de dos, porque el 17/10 no hay clase — sigue alcanzando para los 3 talleres restantes sin romper el orden de dependencias, pero ya sin margen extra: si se corre otra fecha en esta ventana, revisar de nuevo.
 
+### 4.1 Qué presentación corresponde a cada taller
+
+Los decks de clase se numeran por módulo y los repositorios por taller, y la numeración no coincide uno a uno: desde el Módulo 4 hay un desfase de uno, y al final se cruzan (el módulo de Riesgos se dicta con el Taller 8 y el de Gobierno con el Taller 9). Esta tabla dice qué archivo abrir en cada repositorio de taller:
+
+| Taller | Módulo de la presentación | Archivo pptx (en el repo del taller) |
+|---|---|---|
+| Taller 0 | Módulo 0 (logística del curso) y Módulo 1 (Arquitectura Empresarial: capas, TOGAF ADM, Zachman) | `0. Introduccion - Arquitectura Empresarial.pptx` y `1. Arquitectura Empresarial.pptx` |
+| Taller 1 | Módulo 2: Modelado de procesos (BPMN) | `2. PMN_Modelado_Procesos_v2.pptx` |
+| Taller 2 | Módulo 3: Modelado de información (ERD) | `3. Modelado_Informacion_ERD_v2.pptx` |
+| Taller 3 | Módulo 4: Documentar la arquitectura de software (C4) | `4. Documentar_arquitectura_software_v2.pptx` |
+| Taller 4 | Módulo 5: Infraestructura y topologías | `5. Infraestructura_Topologias.pptx` |
+| Taller 5 | Módulo 6: Seguridad arquitectónica y STRIDE | `6. Seguridad_STRIDE_unificado.pptx` |
+| Taller 6 | Módulo 7: Normatividad y cumplimiento | `7. Normatividad_Cumplimiento.pptx` |
+| Taller 7 | Deck del Taller 7: Oportunidades y soluciones | `7. Oportunidades_Soluciones.pptx` |
+| Taller 8 | Módulo 9: Evaluación de riesgos arquitectónicos | `9. Riesgos_Arquitectonicos_unificado.pptx` |
+| Taller 9 | Módulo 8: Gobierno de arquitectura | `8. Gobierno_Arquitectura.pptx` |
+
 ---
 
 ## 5. Cómo compartir el repositorio

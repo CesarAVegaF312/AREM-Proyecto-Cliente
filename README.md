@@ -93,6 +93,8 @@ Cada carpeta no es un ejercicio aislado: usa lo que produjo la anterior. Si dos 
 |---|---|
 | 00 → 01 | Un proceso de "Procesos clave del negocio" de la Ficha se convierte en el proceso a modelar en BPMN |
 | 00 → 02 | El contexto del negocio (sistemas y actores mencionados en la Ficha) informa el ERD y el diagrama de contexto |
+| 00 → 07 | Las capacidades de negocio de la Visión son las que el Taller 7 madura (madurez AS-IS y TO-BE) y agrupa en paquetes de trabajo; no se inventan de nuevo |
+| 00 → 09 | El borrador de principios de la Visión se confirma, reescribe o retira en el plan de gobernanza, con la evidencia de los talleres intermedios |
 | 01, 02 → 03 | Los procesos y entidades ya modelados delimitan qué sistema se documenta en C1/C2 |
 | 03 → 04 | Los contenedores del C2 aparecen como componentes en el mapa de infraestructura |
 | 03, 04 → 05 | Los componentes y flujos de C4/infraestructura son el objeto del análisis STRIDE |

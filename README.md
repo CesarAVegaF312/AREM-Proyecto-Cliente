@@ -166,4 +166,4 @@ Copie [`plantilla_readme_equipo.md`](plantilla_readme_equipo.md) como `README.md
 
 ## Licencia
 
-Este repositorio es de uso académico bajo licencia MIT. Hace parte del curso de Arquitectura Empresarial - Universidad de La Sabana.
+© César Augusto Vega Fernández. Material del curso Arquitectura Empresarial, Universidad de La Sabana, bajo licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).

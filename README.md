@@ -1,4 +1,4 @@
-# 🛠️ Cómo Armar el Repositorio del Proyecto con el Cliente Real
+# Cómo Armar el Repositorio del Proyecto con el Cliente Real
 
 Esta guía es para el **equipo**, no para un taller específico: explica cómo organizar en un solo repositorio de GitHub todo el trabajo de la Parte 2 ("Aplicación al Cliente Real") de los 10 talleres del curso, de modo que el resultado final sea algo que **el cliente pueda usar**, no solo una carpeta de entregables académicos.
 
@@ -21,7 +21,7 @@ Cada equipo crea **un solo repositorio** (no diez) para su cliente real, nombrad
 
 ```text
 AREM-EquipoX-NombreCliente/
-├── README.md                          # ⭐ Punto de entrada — ver plantilla en este repo
+├── README.md                          # Punto de entrada — ver plantilla en este repo
 ├── resumen-ejecutivo.md               # Copia del Taller 9 — lo primero que debe leer el cliente
 ├── 00-preliminary-vision/
 │   ├── ficha-caracterizacion.md
@@ -115,19 +115,19 @@ El curso se dicta los sábados. Con el Taller 7 (Opportunities & Solutions) inse
 | 2 | 01/08 | Taller 1 — BPMN |
 | 3 | 08/08 | Taller 2 — Modelo de Información |
 | 4 | 15/08 | Cierre y ajustes Corte 1 |
-| 5 | 22/08 | 🟢 **Sustentación Corte 1** (`00`, `01`, `02`) |
+| 5 | 22/08 | **Sustentación Corte 1** (`00`, `01`, `02`) |
 | 6 | 29/08 | Taller 3 — Arquitectura C4 |
 | 7 | 05/09 | Taller 4 — Infraestructura |
 | 8 | 12/09 | Taller 5 — STRIDE |
 | 9 | 19/09 | Taller 6 — Normatividad |
 | 10 | 26/09 | Cierre y ajustes Corte 2 |
-| 11 | 03/10 | 🟢 **Sustentación Corte 2** (`03`, `04`, `05`, `06`) |
+| 11 | 03/10 | **Sustentación Corte 2** (`03`, `04`, `05`, `06`) |
 | 12 | 10/10 | Taller 7 — Opportunities & Solutions |
 | — | ~~17/10~~ | Semana de receso — sin clase |
 | 13 | 24/10 | Taller 8 — Integración de Vistas + método de análisis de riesgos (insumo de la matriz de riesgos del Taller 9) |
 | 14 | 31/10 | Taller 9 — Presentación Final (preparación): plan de implementación con gestión del cambio, gobernanza con métricas, ADR y vistas ArchiMate |
 | 15 | 07/11 | Cierre Corte 3 / Ensayo |
-| 16 | 14/11 | 🟢 **Presentación Final con el cliente/negocio** (`07`, `08`, `09`) — el cliente debe asistir (presencial o virtual) |
+| 16 | 14/11 | **Presentación Final con el cliente/negocio** (`07`, `08`, `09`) — el cliente debe asistir (presencial o virtual) |
 | — | Mar 17/11 | Plazo del paquete final ajustado con la retroalimentación del panel (repositorio completo + retroalimentación del cliente firmada + coevaluación por Aula Virtual) |
 
 Cada corte queda con al menos un sábado libre de contenido nuevo antes de sustentar (15/08, 26/09). El cierre final queda con un solo sábado de colchón (07/11) en vez de dos, porque el 17/10 no hay clase — sigue alcanzando para los 3 talleres restantes sin romper el orden de dependencias, pero ya sin margen extra: si se corre otra fecha en esta ventana, revisar de nuevo.
@@ -164,6 +164,6 @@ Copie [`plantilla_readme_equipo.md`](plantilla_readme_equipo.md) como `README.md
 
 ---
 
-## ✅ Licencia
+## Licencia
 
-Este repositorio es de uso académico bajo licencia MIT. Hace parte del curso de Arquitectura Empresarial - Universidad de La Sabana.
+© César Augusto Vega Fernández. Material del curso Arquitectura Empresarial, Universidad de La Sabana, bajo licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).

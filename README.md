@@ -83,6 +83,12 @@ La coevaluación **no** va en el repositorio: cada integrante la envía privada 
 
 Cada carpeta usa las plantillas del repo del taller correspondiente — cópielas de `plantillas/` de cada `AREM-Taller_N_...` a la carpeta de aquí y llénelas con el trabajo del cliente real.
 
+**Elementos opcionales.** Cada taller tiene una sección "Validación técnica, análisis de casos y tecnología (opcional)" en su README. Si el equipo la trabaja, los archivos van así:
+
+- `analisis-caso.md`, dentro de la carpeta del taller (por ejemplo `04-infraestructura/analisis-caso.md`), con la plantilla `plantilla_analisis_caso.md` del taller.
+- `validacion-tecnica/`, dentro de la carpeta del taller, solo en los talleres que lo piden: 1, 2, 3, 4 y 8.
+- Los archivos de gobierno del Taller 9 (`.github/` y `scripts/`) van en la raíz del repositorio, no en `09-presentacion-final/`.
+
 ---
 
 ## 3. Cómo fluye la información entre carpetas (trazabilidad)
